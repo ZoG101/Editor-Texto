@@ -12,7 +12,7 @@ Este é um programa de edição de texto simples que permite ao usuário criar, 
 Você pode baixar ou clonar o repositório e executar o programa ou através da IDE QT Creator ou executando a versão realease do programa que se encontra em: 
 
 ```bash
-./Editor-Texto/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/release/deploy/Editor-Texto.exe
+./Editor-Texto/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/release/deploy/Editor_Texto.exe
  ````
 
 Também é possível baixar somente o release <a href="https://github.com/ZoG101/Editor-Texto/releases/tag/Editor-texto">aqui</a>.
