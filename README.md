@@ -20,7 +20,7 @@ Também é possível baixar somente o release <a href="https://github.com/ZoG101
 Para fazer modificações no projeto rocomendo a instalação do QT Creator e acessar o arquivo
 
 ```bash
-Estoque_texto.pro
+Editor_texto.pro
  ````
 
 ## Tecnologias Utilizadas
